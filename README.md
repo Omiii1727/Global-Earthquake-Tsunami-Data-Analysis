@@ -1,9 +1,9 @@
 # Global-Earthquake-Tsunami-Data-Analysis
-🌍 Earthquake–Tsunami Data Analysis (2001–2022) 
+# 🌍 Earthquake–Tsunami Data Analysis (2001–2022) 
 
 This project presents an in-depth exploratory data analysis (EDA) of global earthquake events with a focus on identifying the seismic patterns that contribute to tsunami generation. By examining more than two decades of earthquake data, the analysis highlights geographical trends, magnitude–depth relationships, statistical indicators, and visual patterns that distinguish tsunami-triggering earthquakes from non-tsunami events. The goal is to provide meaningful insights that support improved seismic risk awareness and tsunami forecasting.
 
-📌 Project Overview
+# 📌 Project Overview
 
 The analysis is based on the Global Earthquake–Tsunami Risk Assessment Dataset, covering the years 2001 to 2022.
 Through detailed exploration, the project investigates:
@@ -20,7 +20,7 @@ Visual representations that make complex patterns easier to interpret
 
 Two comprehensive reports accompany the notebook, offering explanations, findings, and visual summaries.
 
-🎯 Key Objectives
+# 🎯 Key Objectives
 1. Time-Based Seismic Trends
 
 Observe yearly variations in the number of earthquakes and tsunami events
@@ -67,7 +67,7 @@ Examine how depth variability influences the energy transfer required to generat
 
 Highlight how quantified patterns can support future tsunami early-warning efforts
 
-📊 Visualizations Included
+# 📊 Visualizations Included
 
 The analysis includes a wide range of visualizations that make complex seismic data easy to interpret:
 
@@ -89,7 +89,7 @@ Multi-Plot Summary: Combines several visual insights into a unified overview
 
 Each visualization contributes to understanding the seismic characteristics that matter most for tsunami prediction.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 This project is implemented entirely in Python and makes use of several essential scientific libraries:
 
@@ -105,7 +105,7 @@ Seaborn – enhanced statistical visualization tools
 
 These libraries enable efficient computation and the creation of visually clear, information-rich plots.
 
-📈 Key Insights
+# 📈 Key Insights
 
 The analysis reveals several important findings:
 
@@ -123,7 +123,7 @@ Geographic plots indicate that the Pacific Ring of Fire remains the most active 
 
 These insights, taken together, strengthen the understanding of seismic conditions that elevate tsunami risk.
 
-📄 Reports Included
+# 📄 Reports Included
 
 Two PDF documents summarize the findings, visualizations, and interpretations:
 
@@ -133,7 +133,6 @@ Exploratory Analysis of Global Earthquake.pdf – A detailed breakdown of method
 
 Both documents complement the notebook and provide accessible explanations suitable for academic or research use.
 
-🤝 Contributions
-
+#🤝 Contributions
 Contributions are welcome.
 Suggestions for new visualizations, statistical techniques, or predictive modeling enhancements are encouraged.
