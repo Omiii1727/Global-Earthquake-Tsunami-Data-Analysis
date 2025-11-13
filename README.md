@@ -1,5 +1,5 @@
 # Global-Earthquake-Tsunami-Data-Analysis
-🌍 Earthquake–Tsunami Data Analysis (2001–2022)
+🌍 Earthquake–Tsunami Data Analysis (2001–2022) 
 
 This project presents an in-depth exploratory data analysis (EDA) of global earthquake events with a focus on identifying the seismic patterns that contribute to tsunami generation. By examining more than two decades of earthquake data, the analysis highlights geographical trends, magnitude–depth relationships, statistical indicators, and visual patterns that distinguish tsunami-triggering earthquakes from non-tsunami events. The goal is to provide meaningful insights that support improved seismic risk awareness and tsunami forecasting.
 
